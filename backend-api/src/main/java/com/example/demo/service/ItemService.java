@@ -29,6 +29,7 @@ public class ItemService {
         Item item = getItem(id);
         item.setName(itemDetails.getName());
         item.setDescription(itemDetails.getDescription());
+        item.setActive(itemDetails.isActive());
         return itemRepository.save(item);
     }
 
