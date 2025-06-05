@@ -1,6 +1,6 @@
 # Vibe Code Project
 
-A naive full-stack web application built with Spring Boot backend and React frontend, purely utilizing vibe coding. Objective is to ring in some background music and & vibe code. 
+A naive full-stack web application built with Spring Boot backend and React frontend, purely utilizing vibe coding. Objective is to ring in some background music & vibe code. 
 
 ## Project Structure
 
