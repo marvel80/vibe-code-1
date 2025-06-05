@@ -36,8 +36,8 @@ The backend server will start on http://localhost:8080
 ### API Endpoints
 - H2 Console: http://localhost:8080/h2-console
   - Database URL: jdbc:h2:mem:demodb
-  - Username: SA
-  - Password: (empty)
+  - Username: sa
+  - Password: password
 
 ## Frontend (React)
 
